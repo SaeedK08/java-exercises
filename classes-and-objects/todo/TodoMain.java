@@ -1,5 +1,5 @@
 package todo;
-import todo.Todo.Priority;;
+import todo.Todo.Priority;
 
 public class TodoMain
 {
@@ -21,11 +21,3 @@ public class TodoMain
         System.out.println(item2.toString());
     }
 }
-// Todo item = new Todo("Learn OOP", "Follow the lectures, read the textbook");
-// System.out.println("last updated: " + item.getLastUpdated());
-// System.out.println(item.toString());
-
-// item.addToDescription(", do the exercises");
-// System.out.println("last updated: " + item.getLastUpdated());
-// item.checkTask();
-// System.out.println(item.toString());
